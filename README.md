@@ -123,4 +123,5 @@ plt.show()
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+       Thus exploratory data analysis on the given data set is executed successfully. 
+
